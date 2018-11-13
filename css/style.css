@@ -1,12 +1,33 @@
 #menu {
-  background: #c5afa4;
+  font-family: "Pacifico", cursive;
+  font-size: 20px;
+  margin-bottom: 0px;
 }
 
 #about {
-  background: #cf4d6f;
+  font-family: "Pacifico", cursive;
+  padding-bottom: 50px;
 }
 #about img {
   max-width: 100%;
+}
+
+#imagenes {
+  background: #cf4d6f;
+  padding-bottom: 50px;
+}
+#imagenes img {
+  max-width: 100%;
+}
+
+#redes {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 35px;
+}
+
+#copy {
+  background: grey;
 }
 
 /*# sourceMappingURL=style.css.map */

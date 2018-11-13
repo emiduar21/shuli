@@ -1,12 +1,45 @@
+$color1: rgba(197, 175, 164, 1);
+$color2: rgba(204, 126, 133, 1);
+$color3: rgba(207, 77, 111, 1);
+$color4: rgba(163, 109, 144, 1);
+$color5: rgba(118, 129, 142, 1);
+
 #menu{
-	background:rgba(197, 175, 164, 1);
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+	margin-bottom: 0px;
 }
 
 #about{
-	background: rgba(207, 77, 111, 1);
+	
+	font-family: 'Pacifico', cursive;
+	padding-bottom: 50px;
 
 	img{
 		max-width: 100%;
 	}
 }
 
+
+#imagenes{
+	background: rgba(207, 77, 111, 1);
+	padding-bottom: 50px;
+
+
+		img{
+			max-width: 100%;
+
+		}
+	 }
+
+
+	 #redes{
+	 	padding-top: 50px;
+	 	padding-bottom: 50px;
+	 	font-size: 35px;
+
+	 }
+
+	 #copy{
+	 	background: grey;
+	 }

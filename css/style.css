@@ -4,30 +4,38 @@
   margin-bottom: 0px;
 }
 
+#imagenes {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#imagenes h3 {
+  padding-bottom: 40px;
+}
+
 #about {
   font-family: "Pacifico", cursive;
   padding-bottom: 50px;
 }
 #about img {
   max-width: 100%;
+  color: white;
 }
 
-#imagenes {
-  background: #cf4d6f;
-  padding-bottom: 50px;
-}
-#imagenes img {
-  max-width: 100%;
+.jumbotron {
+  background: #c5afa4;
+  color: white;
 }
 
 #redes {
-  padding-top: 50px;
-  padding-bottom: 50px;
   font-size: 35px;
+}
+#redes h3 {
+  margin: 0px;
 }
 
 #copy {
   background: grey;
+  padding: 0px;
 }
 
 /*# sourceMappingURL=style.css.map */

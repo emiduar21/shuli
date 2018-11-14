@@ -10,6 +10,17 @@ $color5: rgba(118, 129, 142, 1);
 	margin-bottom: 0px;
 }
 
+#imagenes{
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+	h3{
+		padding-bottom: 40px;
+	}
+
+
+}
+
 #about{
 	
 	font-family: 'Pacifico', cursive;
@@ -17,29 +28,30 @@ $color5: rgba(118, 129, 142, 1);
 
 	img{
 		max-width: 100%;
+		color: white;
 	}
 }
 
+.jumbotron{
+	background: $color1;
+	color: white;
+}
 
-#imagenes{
-	background: rgba(207, 77, 111, 1);
-	padding-bottom: 50px;
 
 
-		img{
-			max-width: 100%;
-
-		}
-	 }
 
 
 	 #redes{
-	 	padding-top: 50px;
-	 	padding-bottom: 50px;
+	 	
 	 	font-size: 35px;
+
+	 	h3{
+	 		margin: 0px;
+	 	}
 
 	 }
 
 	 #copy{
 	 	background: grey;
+	 	padding: 0px;
 	 }

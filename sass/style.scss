@@ -7,12 +7,47 @@ $color5: rgba(118, 129, 142, 1);
 #menu{
 	font-family: 'Pacifico', cursive;
 	font-size: 20px;
-	margin-bottom: 0px;
+	margin-bottom: -20px;
+
 }
+
+
+
+
+.jumbotron{
+	background: $color1;
+	color: white;
+	margin-bottom: -30px;
+
+}
+
+
+
+#about{
+	margin: 0px;
+	font-family: 'Pacifico', cursive;
+	padding-bottom: 50px;
+	background: $color2;
+	font-size: 20px;
+
+	img{
+		margin-top:	30px; 
+		max-width: 100%;
+		color: white;
+	}
+	p{
+		margin-top: 30px;
+	}
+}
+
+
 
 #imagenes{
 	padding-top: 50px;
 	padding-bottom: 50px;
+	background: pink;
+	    width: 1346px;
+
 
 	h3{
 		padding-bottom: 40px;
@@ -21,37 +56,32 @@ $color5: rgba(118, 129, 142, 1);
 
 }
 
-#about{
-	
-	font-family: 'Pacifico', cursive;
-	padding-bottom: 50px;
 
-	img{
-		max-width: 100%;
-		color: white;
-	}
-}
 
-.jumbotron{
-	background: $color1;
-	color: white;
-}
+
 
 
 
 
 
 	 #redes{
-	 	
+	 	background: rgba(163, 109, 144, 1);
 	 	font-size: 35px;
 
-	 	h3{
-	 		margin: 0px;
-	 	}
+
+
 
 	 }
 
+
+
+	 
+
+
+
+
 	 #copy{
 	 	background: grey;
-	 	padding: 0px;
+	 	    width: 1316px;
+	 
 	 }

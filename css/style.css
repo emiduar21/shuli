@@ -1,41 +1,49 @@
 #menu {
   font-family: "Pacifico", cursive;
   font-size: 20px;
-  margin-bottom: 0px;
-}
-
-#imagenes {
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-#imagenes h3 {
-  padding-bottom: 40px;
-}
-
-#about {
-  font-family: "Pacifico", cursive;
-  padding-bottom: 50px;
-}
-#about img {
-  max-width: 100%;
-  color: white;
+  margin-bottom: -20px;
 }
 
 .jumbotron {
   background: #c5afa4;
   color: white;
+  margin-bottom: -30px;
+}
+
+#about {
+  margin: 0px;
+  font-family: "Pacifico", cursive;
+  padding-bottom: 50px;
+  background: #cc7e85;
+  font-size: 20px;
+}
+#about img {
+  margin-top: 30px;
+  max-width: 100%;
+  color: white;
+}
+#about p {
+  margin-top: 30px;
+}
+
+#imagenes {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: pink;
+  width: 1346px;
+}
+#imagenes h3 {
+  padding-bottom: 40px;
 }
 
 #redes {
+  background: #a36d90;
   font-size: 35px;
-}
-#redes h3 {
-  margin: 0px;
 }
 
 #copy {
   background: grey;
-  padding: 0px;
+  width: 1316px;
 }
 
 /*# sourceMappingURL=style.css.map */
